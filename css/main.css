@@ -1,0 +1,67 @@
+.body {
+    color: #000;
+}
+.system {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: courier;
+    margin-top: 20px;
+    text-shadow: 2px 2px 3px rgb(41, 8, 230);
+    
+}
+.plyta {
+    font-family: monospace;
+    font-size: 25px;
+    border: 4px solid rgb(75, 10, 226);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 2px 1px 5px 5px #000;
+}
+.procesor {
+    font-size: 30px;
+    font-family: sans-serif;
+    padding: 0px 0px 0px 50px;
+    border: 4px solid rgb(4, 80, 23);
+    border-radius: 10px;
+    box-shadow: 2px 1px 5px 5px #000;
+}
+.art {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 3px rgb(5, 133, 47);
+}
+.foto-procesor {
+    padding: 0px 0px 0px 600px ;
+}
+
+.dekor {
+    text-decoration: none;
+}
+
+.dekor2 {
+    text-decoration: none;
+    color: rgb(1, 37, 11);
+}
+
+.dekor3 {
+    text-decoration: none;
+    color: rgb(56, 17, 43);
+}
+
+.graficzna {
+    font-size: 50px;
+    font-family: sans-serif;
+    padding: 40px 0px 50px 30px;
+    text-shadow: 2px 2px 3px rgb(196, 11, 125) ;
+}
+
+.graficznakarta {
+    font-size: 35px;
+    font-family: monospace;
+    border: 4px solid rgb(202, 16, 140);
+    border-radius: 10px;
+    box-shadow: 2px 1px 5px 5px rgb(0, 0, 0);
+    margin: 5px 50px 0px 0px;
+    padding: 0px 0px 0px 20px ;
+
+}
